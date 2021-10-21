@@ -4,7 +4,8 @@ role: Undergraduate in Computer Science, Peking University
 avatar_filename: caq.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
-interests: []
+interests:
+  - Security and Privacy * Applied Cryptography * Private and Scalable Blockchain
 social:
   - icon: envelope
     icon_pack: fas
